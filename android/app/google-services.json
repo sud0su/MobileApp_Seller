@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "114794138897",
+    "project_id": "belipintar-8efda",
+    "storage_bucket": "belipintar-8efda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114794138897:android:c379d64f8a2ebe79e550b0",
+        "android_client_info": {
+          "package_name": "com.belipintar.seller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114794138897-8ftvg6ql5v4sk2684c4bhenal4funpic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.belipintar.seller_app",
+            "certificate_hash": "286aedb24ae489afc9eebf67e7beb42724eff6ed"
+          }
+        },
+        {
+          "client_id": "114794138897-hlvm6lfcpedo8sigqevfaahvmiac8tlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPv-PhyiNbVibrJGDdsL_v2dlrcQqtg9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114794138897-hlvm6lfcpedo8sigqevfaahvmiac8tlm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114794138897-9pvs1v2k1i6dhso1hfqe9meb33fdcu3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.belipintar.sellerapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
